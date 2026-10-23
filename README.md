@@ -19,6 +19,9 @@ A lightweight, offline-first Windows desktop utility built for teachers, faculty
 
 Built to make classroom presentations simpler and more interactive.
 
+🚀 Download TeacherDesk:
+https://github.com/manishmn1987/TeachersDesk/releases/tag/v1.0.0
+
 If you try it, I'd appreciate your feedback and suggestions!
 
 #TeacherDesk #EdTech #WindowsApps #TeachingTools #SoftwareDevelopment
